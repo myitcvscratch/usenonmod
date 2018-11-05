@@ -1,0 +1,4 @@
+github.com/myitcvscratch/nonmod v0.0.0-20181105194257-9516961eb10a h1:PIsrOgpc2/364hBZkXr+WiOHwTpkjPqdv1Bc/kvZEz0=
+github.com/myitcvscratch/nonmod v0.0.0-20181105194257-9516961eb10a/go.mod h1:isuzoueIA6jo5kH3xYllw/BjB7hydTzC4+iYYN8JHWc=
+golang.org/x/tools v0.0.0-20181105194243-ebdbadb46e45 h1:oomEDQ8+RA5M5u6LlC+f9F1+o2rrigkOJJNZsdrWacg=
+golang.org/x/tools v0.0.0-20181105194243-ebdbadb46e45/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
